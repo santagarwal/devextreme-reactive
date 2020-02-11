@@ -43,7 +43,7 @@
     "tsc": "tsc"
   },
   "devDependencies": {
-    "@types/enzyme": "^3.10.4",
+    "@types/enzyme": "^3.10.5",
     "core-js": "^3.4.1",
     "enzyme": "3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
